@@ -28,10 +28,10 @@ class Scratch3ArduinoTemplate {
             name: 'Template External',
             blockIconURI: iconURL,
             allowBlockTypes: {
-                arduinoTest_scheduler_task: -1
+                scheduler_task: -1
             },
-            color1: '#69453a',
-            color2: '#59352a',
+            color1: '#5AAECC',
+            color2: '#488BA3',
             blocks: [
                 {
                     opcode: 'scheduler_init',
